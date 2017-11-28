@@ -40,7 +40,7 @@ O programa `main` foi desenvolvido de forma que o usuario possa optar pelo modo 
 
 Exemplo:
 
-`echo teste.jpg = tipo1.jpg / 1.0 | ./main -a MODO_DE_EXECUCAO -t TIPO_DA_IMAGEM -i NUMERO_DE_ITERACOES -m MODO_VARREDURA -n NUMERO_PARALELO`
+	*`echo teste.jpg = tipo1.jpg / 1.0 | ./main -a MODO_DE_EXECUCAO -t TIPO_DA_IMAGEM -i NUMERO_DE_ITERACOES -m MODO_VARREDURA -n NUMERO_PARALELO`
 
 onde 
 
