@@ -13,9 +13,9 @@
 
 	Estando neste diretório, ao rodar o `make` temos as seguintes possibilidades:
 
-*`make`		: Compila os arquivos contidos na pasta `src`, gerando um executavel `main` neste mesmo diretorio.
+* `make`		: Compila os arquivos contidos na pasta `src`, gerando um executavel `main` neste mesmo diretorio.
 
-*`make test`	: Executa o script `test.sh`, que testa todos os casos requeridos no projeto. Ao executar este script, todos os dados sao salvos no diretorio `tests`, que possui os resultados parciais de cada execucao. O diretorio `tests` contem diversos diretorios intuitivos sobre os resultados parciais. Além do diretório `tests` é gerado o diretorio `resultados` onde há outros 4 diretórios que sao explicados a seguir.
+* `make test`	: Executa o script `test.sh`, que testa todos os casos requeridos no projeto. Ao executar este script, todos os dados sao salvos no diretorio `tests`, que possui os resultados parciais de cada execucao. O diretorio `tests` contem diversos diretorios intuitivos sobre os resultados parciais. Além do diretório `tests` é gerado o diretorio `resultados` onde há outros 4 diretórios que sao explicados a seguir.
 
 	*`resultados/sequencial` -> Apresenta todos os resultados gerados (linhas,colunas e tipos de imagem) devido as execucoes seriais.	
 
@@ -25,9 +25,9 @@
 
 	*`resultados/geral` 	-> Apresenta arquivos contendo os tempos execucao comparando sequencial, threads e processos para cada modo de execucao (linhas, colunas e tipo de imagem).
 
-*`make clean`	: Limpa o diretorio, deixando apenas os diretorios `tests`, `resultados`, `src` e as imagens e o script `test.sh`.
+* `make clean`	: Limpa o diretorio, deixando apenas os diretorios `tests`, `resultados`, `src` e as imagens e o script `test.sh`.
 
-*`make clean_all` : Limpa todo o diretorio, deixando a penas as imagens, o script `test.sh` e as imagens.
+* `make clean_all` : Limpa todo o diretorio, deixando a penas as imagens, o script `test.sh` e as imagens.
 
 
 ##  Manual para execucao de testes manuais.
@@ -69,9 +69,9 @@ Exemplo:
 
 Caso surja alguma duvida de como executar, entre em contato conosco!
 
-*guicpupio@gmail.com
-*mathkhouri@gmail.com
-*fersuzuki.fs@gmail.com
-*josi.canobel@gmail.com
+* guicpupio@gmail.com
+* mathkhouri@gmail.com
+* fersuzuki.fs@gmail.com
+* josi.canobel@gmail.com
 
 
