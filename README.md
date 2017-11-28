@@ -17,13 +17,13 @@
 
 * `make test`	: Executa o script `test.sh`, que testa todos os casos requeridos no projeto. Ao executar este script, todos os dados sao salvos no diretorio `tests`, que possui os resultados parciais de cada execucao. O diretorio `tests` contem diversos diretorios intuitivos sobre os resultados parciais. Além do diretório `tests` é gerado o diretorio `resultados` onde há outros 4 diretórios que sao explicados a seguir.
 
-	*`resultados/sequencial` -> Apresenta todos os resultados gerados (linhas,colunas e tipos de imagem) devido as execucoes seriais.	
+	* `resultados/sequencial` -> Apresenta todos os resultados gerados (linhas,colunas e tipos de imagem) devido as execucoes seriais.	
 
-	*`resultados/threads`	-> Apresenta todos os resultados gerados (linhas,colunas, e tipos de imagem) devido as execucoes com variados numero de threads.
+	* `resultados/threads`	-> Apresenta todos os resultados gerados (linhas,colunas, e tipos de imagem) devido as execucoes com variados numero de threads.
 
-	*`resultados/processos`	-> Apresenta todos os resultados gerados (linhas,colunas, e tipos de imagem) devido as execucoes com variados numero de processos.
+	* `resultados/processos`	-> Apresenta todos os resultados gerados (linhas,colunas, e tipos de imagem) devido as execucoes com variados numero de processos.
 
-	*`resultados/geral` 	-> Apresenta arquivos contendo os tempos execucao comparando sequencial, threads e processos para cada modo de execucao (linhas, colunas e tipo de imagem).
+	* `resultados/geral` 	-> Apresenta arquivos contendo os tempos execucao comparando sequencial, threads e processos para cada modo de execucao (linhas, colunas e tipo de imagem).
 
 * `make clean`	: Limpa o diretorio, deixando apenas os diretorios `tests`, `resultados`, `src` e as imagens e o script `test.sh`.
 
