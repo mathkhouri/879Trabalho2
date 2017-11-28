@@ -59,7 +59,7 @@ Caso algum destes parametros nao seja utilizado, o programa tratara como se o pa
 Exemplo:
 	A seguinte instrucao executara a divisao do brilho da imagem por 1.6 por meio de 4 threads, no modo de varredura linha com apenas uma iteracao. 
 
-*`echo teste.jpg = tipo2.jpg / 1.6 | ./main -a 1 -n 4`
+`echo teste.jpg = tipo2.jpg / 1.6 | ./main -a 1 -n 4`
 
  
 ## Nota importante.
