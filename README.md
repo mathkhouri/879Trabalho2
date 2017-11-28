@@ -11,7 +11,7 @@
 
 ## Manual para execucao de testes automatizados
 
-	Estando neste diretório, ao rodar o `make` temos as seguintes possibilidades:
+Estando neste diretório, ao rodar o `make` temos as seguintes possibilidades:
 
 * `make`		: Compila os arquivos contidos na pasta `src`, gerando um executavel `main` neste mesmo diretorio.
 
